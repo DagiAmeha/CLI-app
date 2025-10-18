@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Logs and runtime data
+*.log
+.logs/
+.data/
+lib/config.js
+
+# Environment variables
+.env
+
+# SSL certificates and keys
+https/*.pem
+https/*.key
+https/*.crt
+
+# VS Code and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary or build files
+dist/
+build/
