@@ -22,4 +22,4 @@ node index.js
 
 ```
 
-you can use **help/man** command to see all the commands with explanation
+you can use **help/man** command to see all the commands with their explanation.
